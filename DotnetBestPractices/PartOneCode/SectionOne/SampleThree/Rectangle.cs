@@ -1,4 +1,4 @@
-﻿namespace DotnetBestPractices.Code.SampleThree;
+﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleThree;
 
 public class Rectangle
 {

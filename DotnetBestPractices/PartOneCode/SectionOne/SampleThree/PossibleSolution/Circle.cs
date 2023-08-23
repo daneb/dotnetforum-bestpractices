@@ -1,4 +1,4 @@
-﻿namespace DotnetBestPractices.Code.SampleThree.PossibleSolution;
+﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleThree.PossibleSolution;
 
 public class Circle : Shape
 {

@@ -1,4 +1,4 @@
-﻿namespace DotnetBestPractices.Code.SampleFour;
+﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleFour;
 
 public class Bird
 {

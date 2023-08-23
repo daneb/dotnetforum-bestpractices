@@ -1,4 +1,4 @@
-﻿namespace DotnetBestPractices.Code.SampleOne.PossibleSolution;
+﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleOne.PossibleSolution;
     
 public class ReportGenerator
 {

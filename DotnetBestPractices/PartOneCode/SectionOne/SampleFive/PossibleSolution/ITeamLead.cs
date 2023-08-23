@@ -1,4 +1,4 @@
-﻿namespace DotnetBestPractices.Code.SampleFive.PossibleSolution;
+﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleFive.PossibleSolution;
 
 public interface ITeamLead
 {

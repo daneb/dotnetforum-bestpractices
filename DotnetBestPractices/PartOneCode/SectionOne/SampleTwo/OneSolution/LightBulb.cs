@@ -1,4 +1,4 @@
-﻿namespace DotnetBestPractices.Code.SampleTwo.OneSolution;
+﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleTwo.OneSolution;
 
 public class LightBulb : ISwitchable
 {

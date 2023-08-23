@@ -1,4 +1,4 @@
-﻿namespace DotnetBestPractices.Code.SampleTwo;
+﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleTwo;
 
 public class LightBulb
 {

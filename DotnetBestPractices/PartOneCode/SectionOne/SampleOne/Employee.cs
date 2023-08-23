@@ -1,4 +1,4 @@
-﻿namespace DotnetBestPractices.Code.PartOne.SampleOne;
+﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleOne;
 
 public class Employee
 {

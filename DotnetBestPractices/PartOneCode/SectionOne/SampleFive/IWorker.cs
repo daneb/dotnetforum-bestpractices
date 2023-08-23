@@ -1,4 +1,4 @@
-﻿namespace DotnetBestPractices.Code.PartOne.SampleFive;
+﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleFive;
 
 public interface IWorker
 {
