@@ -23,3 +23,5 @@ BUT....
 
 —Habitability and Piecemeal Growth1, Patterns of Software pp. 7-16, Richard P. Gabriel
 
+## Notes
+You can also check out a third alternative in reasoning about the quality of code in [GRASP](https://www.kamilgrzybek.com/blog/posts/grasp-explained)

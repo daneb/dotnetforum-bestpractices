@@ -1,9 +1,9 @@
-﻿namespace DotnetBestPractices.Code.SampleFour.PossibleSolution;
+﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleFour.PossibleSolution;
 
-public class Ostrich : IFlyable
+public class Ostrich : IBird
 {
     public void Fly()
     {
-        throw new InvalidOperationException("Ostriches can't fly."); 
+        // // Ostriches can't fly, so implement behavior accordingly or just leave it empty.
     }
 }

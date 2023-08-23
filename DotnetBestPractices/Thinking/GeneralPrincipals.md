@@ -1,9 +1,5 @@
 ## Principles
 
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
- — Refactoring, Martin Fowler with Kent Beck, 1996
-
-
 1. High Cohesion, Loose Coupling
 2. Law of Demeter - there should be at least one layer of indirection when working with a resource
 3. Postels Law

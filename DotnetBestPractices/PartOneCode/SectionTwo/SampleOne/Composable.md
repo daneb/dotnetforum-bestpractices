@@ -11,6 +11,6 @@ def multiply(a, b):
 
 result = multiply(add(2, 3), 4)
 print(result)  # Output: 20
-```:w
+```
 
 
