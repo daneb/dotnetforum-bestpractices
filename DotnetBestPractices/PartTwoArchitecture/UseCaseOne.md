@@ -11,7 +11,7 @@
 ## Questions
 
 1. What are some possible tensions in moving to a microservice architecture in your existing teams or in your experience? 
-2. How critical is it for the e-commerce platform to rapidly introduce new features to stay competitive in the market? 
+2. It is critical for the e-commerce platform to rapidly introduce new features to stay competitive 
 3. Can the monolithic architecture support the anticipated growth in traffic during peak shopping seasons, or would microservices offer better scalability? 
 4. What are the potential challenges of transitioning to microservices in terms of data consistency and inter-service communication, and how can they be mitigated? 
 5. How might the development process change when different teams are responsible for distinct microservices? Will this impact collaboration or streamline feature releases? 
