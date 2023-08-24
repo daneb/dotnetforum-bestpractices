@@ -1,6 +1,6 @@
 ﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleThree.PossibleSolution;
 
-public abstract class Shape
+public interface IShape
 {
-    public abstract double Area();
+    double CalculateArea();
 }

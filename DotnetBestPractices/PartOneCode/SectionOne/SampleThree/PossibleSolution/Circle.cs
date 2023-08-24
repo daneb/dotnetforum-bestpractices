@@ -1,7 +1,11 @@
 ﻿namespace DotnetBestPractices.PartOneCode.SectionOne.SampleThree.PossibleSolution;
 
-public class Circle : Shape
+public class Circle : IShape
 {
     public double Radius { get; set; }
-    public override double Area() => Math.PI * Radius * Radius;
+
+    public double CalculateArea()
+    {
+        return Math.PI * Radius * Radius;
+    }
 }
